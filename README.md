@@ -4,6 +4,9 @@
 This application is an API for social networking. The user is able to share their thought, react to friends thought, create new friend list and delete thought. 
 
 ## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
 ## Installation
 

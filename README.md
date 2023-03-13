@@ -28,5 +28,8 @@ MIT license
 With any aditional questions you can connect me at:
 
 [email](lilicikau95@gmail.com)
+
+<br>
+
 [GitHub](https://github.com/liliaungurean)
 

@@ -1,4 +1,3 @@
-const { brotliDecompress } = require("zlib");
 const { Thought, User } = require("../models");
 
 const thoughtController = {

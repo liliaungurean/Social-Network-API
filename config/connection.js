@@ -9,7 +9,7 @@ mongoose.connect(
 );
 
 //log mongo queries being executed
-mongoose.sert("debug", true);
+mongoose.set("debug", true);
 
 // Export connection 
 module.export = mongoose.connection;
